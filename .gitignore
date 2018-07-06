@@ -1,0 +1,6 @@
+/venv
+/.idea
+/Input/*.mkv
+/Output/*.mkv
+/Slices/*.mkv
+/Subtitles/*.mkv
